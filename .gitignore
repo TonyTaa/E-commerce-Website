@@ -1,0 +1,19 @@
+# NetBeans specific folders
+nbproject/private/
+nbproject/Makefile-*.mk
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+# Build directories
+build/
+debug/
+release/
+
+# Mac specific files
+.DS_Store
+
+# Windows specific files
+Thumbs.db
